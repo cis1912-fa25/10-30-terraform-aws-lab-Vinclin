@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZoxUVHrL)
 # Infrastructure as Code with Terraform
 
 In the last lab, you deployed a web application to AWS EC2 by clicking through the console, manually creating security groups, downloading key pairs, and SSHing into instances. It worked - you got a running web server accessible to the internet. But imagine you need to do this 10 more times for different environments (development, staging, production). Or imagine you need to tear everything down and recreate it exactly the same way next week. How confident are you that you'd remember every setting, every security rule, every configuration choice?
